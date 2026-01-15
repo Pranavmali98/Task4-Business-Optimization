@@ -103,7 +103,7 @@ An optimal shipping plan is obtained that minimizes total logistics cost.
 
 1. Clone the repository
 ```bash
-git clone <your-repo-link>
+git clone <[your-repo-link](https://github.com/Pranavmali98/Task4-Business-Optimization)>
 ```
 
 2. Install dependencies
