@@ -126,6 +126,5 @@ This task demonstrates how optimization techniques can significantly improve bus
 Linear Programming proves to be a powerful tool for solving both production and logistics problems.
 
 ## Author
-
-**Pranav Mali **
-CODTECH Data Science Intern
+**Pranav Mali**  
+Data Science Intern – CODTECH
