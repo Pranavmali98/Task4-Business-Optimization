@@ -128,4 +128,4 @@ Linear Programming proves to be a powerful tool for solving both production and 
 ## Author
 
 **Pranav Mali**
-CODTECH Data Science Intern
+- CODTECH Data Science Intern
